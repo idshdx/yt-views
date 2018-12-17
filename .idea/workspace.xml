@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7997784-1eb4-4972-bbe6-28f2de7d4575" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/basicelements/basicelements.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/basicelements/basicelements.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/basicelements/basicelements.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/basicelements/basicelements.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/modal/modal.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/modal/modal.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/modal/modal.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/modal/modal.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/navigation/navigation.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/navigation/navigation.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/navigation/navigation.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/navigation/navigation.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/notification/notification.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/notification/notification.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/notification/notification.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/notification/notification.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/nucleoicons/nucleoicons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/nucleoicons/nucleoicons.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/nucleoicons/nucleoicons.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/nucleoicons/nucleoicons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/typography/typography.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/typography/typography.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/typography/typography.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/typography/typography.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/examples.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/examples.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/examples.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/landing/landing.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/landing/landing.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/landing/landing.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/landing/landing.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/login/login.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/pages.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/pages.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/profile/profile.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/examples/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/fonts/nucleo-outline.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/fonts/nucleo-outline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/fonts/nucleo-outline.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/fonts/nucleo-outline.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/bg8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/blurred-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/creative-tim-white-slim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/default-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/eva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/AU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/BE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/BF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/BO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/BR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/CZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/DE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/DJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/DK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/DZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/EE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/ES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/FI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/FR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/GA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/GB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/GM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/GT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/HN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/HT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/HU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/ID.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/IT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/JM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/JO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/JP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/KZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/LV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/MG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/MK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/ML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/MM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/MT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/MX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/NO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/OM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/PY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/QA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/RU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/RW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/SV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/TD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/TJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/TL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/TR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/TZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/UA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/US.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/VE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/VN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/flags/YE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/hero-image-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/hero-image-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/hero-image-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/invision-white-slim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/logo-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/now-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/nucleo-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/img/ryan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_checkboxes-radio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_example-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_inputs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_nucleo-outline.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_pills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_popups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_social-buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_inputs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_transparency.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/plugins/_plugin-bootstrap-switch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/plugins/_plugin-datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/plugins/_plugin-nouislider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/src/app.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/comment.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/dto/create-article.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/dto/create-comment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/dto/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/profile/follows.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/profile/profile.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/profile/profile.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/profile/profile.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/profile/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.service.ts" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/profile/profile.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ormconfig.json</find>
+      <find>module</find>
+      <find>components</find>
+      <find>createRouteParamDecorator()</find>
+      <find>findbyid</find>
+      <find>Repository.find</find>
+      <find>Repository.findOneBy</find>
+      <find>deleteById</find>
+      <find>find</find>
+      <find>HttpException</find>
+      <find>Now Ui Kit</find>
+      <find>upgrade</find>
+      <find>blog</find>
+      <find>https://www.creative-tim.com/about-us</find>
+      <find>designed by</find>
+      <find>https://www.creative-tim.com</find>
+      <find>btn btn-neutral btn-round btn-lg</find>
+      <find>try it ou</find>
+      <find>try it O</find>
+      <find>A beautiful Bootstrap 4 UI kit. Yours free.</find>
+      <find>.form-group.form-group-no-border.input-lg</find>
+      <find>password</find>
+      <find>examples</find>
+      <find>/login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>We broadcast yourself</replace>
+      <replace>#</replace>
+      <replace>pages</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\shady\Desktop\youtube-views\youtube-views-be</dir>
+      <dir>C:\Users\shady\Desktop\youtube-views\youtube-views-be\src</dir>
+      <dir>C:\Users\shady\Desktop\youtube-views\youtube-views-fe\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/youtube-views-fe" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/youtube-views-be/src/tag/tag.controller.spec.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/tag/tag.service.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/tag/tag.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/user.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/article/article.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/profile/profile.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/article/article.service.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/user.entity.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/user.decorator.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/profile/follows.entity.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/user.service.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/auth.middleware.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/user/user.controller.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/shared/pipes/validation.pipe.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/tsconfig.json" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/profile/profile.service.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/tag/tag.entity.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/ormconfig.json" />
+        <option value="$PROJECT_DIR$/youtube-views-be/README.md" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/angular.json" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit.scss" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/examples/landing/landing.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/examples/profile/profile.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/mixins/_inputs.scss" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-be/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/examples/login/login.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/pages/profile/profile.component.html" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-43" />
+    <option name="y" value="40" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube-views" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube-views-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youtube-views-fe/package.json" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\shady\Desktop\youtube-views\youtube-views-fe\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Users\shady\Desktop\youtube-views\youtube-views-fe\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shady\Desktop\youtube-views\youtube-views-fe\src\app\shared\footer" />
+      <recent name="C:\Users\shady\Desktop\youtube-views\youtube-views-be" />
+      <recent name="C:\Users\shady\Desktop\youtube-views\youtube-views-be\configs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shady\Desktop\youtube-views\youtube-views-be\configs\sample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start fe">
+    <configuration name="start fe" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/youtube-views-fe/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start srv" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/youtube-views-be/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch srv" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/youtube-views-be/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start srv" />
+      <item itemvalue="npm.watch srv" />
+      <item itemvalue="npm.start fe" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7997784-1eb4-4972-bbe6-28f2de7d4575" name="Default Changelist" comment="" />
+      <created>1544831179681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544831179681</updated>
+      <workItem from="1544831181045" duration="10648000" />
+      <workItem from="1544976019434" duration="13000" />
+      <workItem from="1544976055577" duration="6074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16592261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Quokka" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Quokka" order="1" />
+      <window_info anchor="bottom" id="TypeScript" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/config.ts.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/configs/sample/config.ts.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/configs/config.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/configs/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/ormconfig.json.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/node_modules/mysql/lib/protocol/sequences/Handshake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/article/comment.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/article/article.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.decorator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#297#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/auth.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#48#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/shared/pipes/validation.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/jest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/nestconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/profile/profile.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/tag/tag.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/ormconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/profile/profile.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="116" column="20" lean-forward="true" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="71" lean-forward="true" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/profile/follows.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/pages.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/profile/profile.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
