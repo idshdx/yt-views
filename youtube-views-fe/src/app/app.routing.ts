@@ -9,7 +9,7 @@ import { LoginComponent } from './pages/login/login.component';
 import { ProfileComponent } from './pages/profile/profile.component';
 import { NucleoiconsComponent } from './components/nucleoicons/nucleoicons.component';
 
-const routes: Routes =[
+const routes: Routes = [
     { path: '', redirectTo: 'index', pathMatch: 'full' },
     { path: 'index',                component: ComponentsComponent },
     { path: 'nucleoicons',          component: NucleoiconsComponent },
@@ -22,7 +22,7 @@ const routes: Routes =[
     imports: [
         CommonModule,
         BrowserModule,
-        RouterModule.forRoot(routes)
+        RouterModule.forRoot(routes),
     ],
     exports: [
     ],

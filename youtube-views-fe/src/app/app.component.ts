@@ -13,7 +13,7 @@ import { NavbarComponent } from './shared/navbar/navbar.component';
 })
 export class AppComponent implements OnInit {
     private _router: Subscription;
-    @ViewChild(NavbarComponent) navBar: NavbarComponent;
+    @ViewChild(NavbarComponent) navbar: NavbarComponent;
 
     constructor(
       private renderer: Renderer2,
@@ -23,14 +23,15 @@ export class AppComponent implements OnInit {
       public location: Location) {}
 
     ngOnInit() {
-        const navBar: HTMLElement = this.element.nativeElement.children[0].children[0];
+        const navbar: HTMLElement = this.element.nativeElement.children[0].children[0];
         this._router = this.router.events.filter(event => event instanceof NavigationEnd).subscribe((event: NavigationEnd) => {
             if (window.outerWidth > 991) {
-                window.document.children[0].scrollTop = 0;
+              window.document.children[0].scrollTop = 0;
             } else {
-                window.document.activeElement.scrollTop = 0;
+              window.document.activeElement.scrollTop = 0;
             }
-            this.navBar.sidebarClose();
+
+            this.navbar.sidebarClose();
 
             this.renderer.listen('window', 'scroll', () => {
                 const number = window.scrollY;
@@ -38,10 +39,10 @@ export class AppComponent implements OnInit {
                 _location = _location.split('/')[2];
 
                 if (number > 150 || window.pageYOffset > 150) {
-                    navBar.classList.remove('navbar-transparent');
+                    navbar.classList.remove('navbar-transparent');
                 } else if (_location !== 'login' && this.location.path() !== '/nucleoicons') {
                     // remove logic
-                    navBar.classList.add('navbar-transparent');
+                    navbar.classList.add('navbar-transparent');
                 }
             });
         });

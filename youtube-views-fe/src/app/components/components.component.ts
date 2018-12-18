@@ -1,4 +1,4 @@
-import { Component, OnInit, Renderer, OnDestroy } from '@angular/core';
+import { Component, OnInit, Renderer2, OnDestroy } from '@angular/core';
 import { NgbDateStruct } from '@ng-bootstrap/ng-bootstrap';
 import { NgbAccordionConfig } from '@ng-bootstrap/ng-bootstrap';
 import * as Rellax from 'rellax';
@@ -14,7 +14,7 @@ import * as Rellax from 'rellax';
 })
 
 export class ComponentsComponent implements OnInit, OnDestroy {
-    data : Date = new Date();
+    data: Date = new Date();
 
     page = 4;
     page1 = 5;
@@ -32,7 +32,7 @@ export class ComponentsComponent implements OnInit, OnDestroy {
 
     state_icon_primary = true;
 
-    constructor( private renderer : Renderer, config: NgbAccordionConfig) {
+    constructor( private renderer : Renderer2, config: NgbAccordionConfig) {
         config.closeOthers = true;
         config.type = 'info';
     }
@@ -46,17 +46,17 @@ export class ComponentsComponent implements OnInit, OnDestroy {
     }
 
     ngOnInit() {
-      var rellaxHeader = new Rellax('.rellax-header');
+      const rellaxHeader = new Rellax('.rellax-header');
 
-        var navbar = document.getElementsByTagName('nav')[0];
+        const navbar = document.getElementsByTagName('nav')[0];
         navbar.classList.add('navbar-transparent');
-        var body = document.getElementsByTagName('body')[0];
+        const body = document.getElementsByTagName('body')[0];
         body.classList.add('index-page');
     }
     ngOnDestroy(){
-        var navbar = document.getElementsByTagName('nav')[0];
+        const navbar = document.getElementsByTagName('nav')[0];
         navbar.classList.remove('navbar-transparent');
-        var body = document.getElementsByTagName('body')[0];
+        const body = document.getElementsByTagName('body')[0];
         body.classList.remove('index-page');
     }
 }

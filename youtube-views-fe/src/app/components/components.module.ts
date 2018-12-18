@@ -14,6 +14,8 @@ import { ComponentsComponent } from './components.component';
 import { NotificationComponent } from './notification/notification.component';
 import { NgbdModalBasic } from './modal/modal.component';
 
+import { SharedModule } from "../shared/shared.module";
+
 @NgModule({
     imports: [
         CommonModule,
@@ -21,7 +23,8 @@ import { NgbdModalBasic } from './modal/modal.component';
         NgbModule,
         NouisliderModule,
         RouterModule,
-        JwBootstrapSwitchNg2Module
+        JwBootstrapSwitchNg2Module,
+        SharedModule
       ],
     declarations: [
         ComponentsComponent,
@@ -32,6 +35,6 @@ import { NgbdModalBasic } from './modal/modal.component';
         NotificationComponent,
         NgbdModalBasic
     ],
-    exports:[ ComponentsComponent ]
+    exports: [ ComponentsComponent ]
 })
 export class ComponentsModule { }

@@ -7,4 +7,8 @@ import { Location, LocationStrategy, PathLocationStrategy } from '@angular/commo
     styleUrls: ['./footer.component.scss']
 })
 export class FooterComponent {
+  public bgColor: string;
+  constructor() {
+    this.bgColor = 'black';
+  }
 }
