@@ -12,6 +12,7 @@
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/e2e/tsconfig.e2e.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-views-fe/server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.spec.ts" afterDir="false" />
@@ -261,10 +262,11 @@
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/src/tslint.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-views-fe/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-be/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/src/app.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-be/src/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be/src/article/article.controller.ts" beforeDir="false" />
@@ -287,20 +289,7 @@
       <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.module.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-be/src/tag/tag.service.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-views-fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/app.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/app.routing.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/pages/pages.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/pages/pages.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/appold/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit.scss" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-views-fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-views-fe/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -314,11 +303,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_dropdown.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_navbar.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="604">
@@ -327,11 +311,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
@@ -343,7 +327,7 @@
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -352,7 +336,7 @@
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="477" column="12" lean-forward="true" selection-start-line="477" selection-start-column="12" selection-end-line="477" selection-end-column="12" />
+              <caret line="477" column="12" selection-start-line="477" selection-start-column="12" selection-end-line="477" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -361,7 +345,7 @@
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/login/login.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -373,7 +357,7 @@
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -393,8 +377,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youtube-views-fe/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="156">
+              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube-views-fe/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -414,12 +407,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>find</find>
       <find>HttpException</find>
       <find>Now Ui Kit</find>
       <find>upgrade</find>
@@ -449,6 +442,7 @@
       <find>designed</find>
       <find>app-footer</find>
       <find>navbarCom</find>
+      <find>expre</find>
     </findStrings>
     <replaceStrings>
       <replace>We broadcast yourself</replace>
@@ -502,7 +496,6 @@
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.ts" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit.scss" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/youtube-views-fe/package.json" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/pages/login/login.component.html" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/pages/landing/landing.component.html" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html" />
@@ -510,6 +503,8 @@
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html" />
         <option value="$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/server.js" />
+        <option value="$PROJECT_DIR$/youtube-views-fe/package.json" />
       </list>
     </option>
   </component>
@@ -632,12 +627,12 @@
       <workItem from="1545081613601" duration="9636000" />
       <workItem from="1545092533904" duration="250000" />
       <workItem from="1545099665248" duration="716000" />
-      <workItem from="1545164750617" duration="1246000" />
+      <workItem from="1545164750617" duration="1889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28583000" />
+    <option name="totallyTimeSpent" value="29226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -648,7 +643,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -657,7 +652,7 @@
       <window_info anchor="bottom" id="Quokka" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32935154" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -689,16 +684,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.entity.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youtube-views-be/src/user/user.decorator.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -978,13 +963,6 @@
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_dropdown.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/youtube-views-fe/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/assets/sass/now-ui-kit/_navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
@@ -995,14 +973,14 @@
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/pages/login/login.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -1012,7 +990,7 @@
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/footer/footer.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
@@ -1029,7 +1007,7 @@
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/components/components.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="477" column="12" lean-forward="true" selection-start-line="477" selection-start-column="12" selection-end-line="477" selection-end-column="12" />
+          <caret line="477" column="12" selection-start-line="477" selection-start-column="12" selection-end-line="477" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1043,10 +1021,24 @@
     <entry file="file://$PROJECT_DIR$/youtube-views-fe/src/app/shared/navbar/navbar.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
           <folding>
             <element signature="e#0#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube-views-fe/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
