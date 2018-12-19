@@ -2,30 +2,33 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'; 
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { RouterModule } from '@angular/router';
 
 import { AppRoutingModule } from './app.routing';
 
-import { ComponentsModule } from './components/components.module';
-import { PagesModule } from './pages/pages.module';
-import { SharedModule } from './shared/shared.module';
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './shared/navbar/navbar.component';
+import { ComponentsModule } from './components/components.module';
+import { LoginModule } from './login/login.module';
+import { ProfileModule } from './profile/profile.module';
+import { SettingsModule } from './settings/settings.module';
+import { SharedModule } from './shared/shared.module';
+// import { AuthModule } from './auth/auth.module';
+import { CoreModule } from './core/core.module';
+import { LandingComponent } from './landing/landing.component';
 
 @NgModule({
     declarations: [
         AppComponent,
-        // NavbarComponent
+        LandingComponent
     ],
     imports: [
         BrowserAnimationsModule,
+        // RouterModule,
+        AppRoutingModule,
         NgbModule,
         FormsModule,
-        RouterModule,
-        AppRoutingModule,
         ComponentsModule,
-        PagesModule,
-        SharedModule
+        SharedModule,
+        CoreModule,
     ],
     providers: [],
     bootstrap: [AppComponent]

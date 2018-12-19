@@ -20,7 +20,7 @@
          </div>
       </div>
         <div class="navbar-translate">
-            <a class="navbar-brand" [routerLink]="['/index']" placement="bottom" ngbTooltip="Designed by Invision. Coded by shady">
+            <a class="navbar-brand" [routerLink]="['index']" placement="bottom" ngbTooltip="Designed by Invision. Coded by shady">
                 We broadcast yourself
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" (click)="sidebarToggle()">
@@ -32,19 +32,19 @@
         <div class="collapse navbar-collapse" data-nav-image="assets/img/blurred-image-1.jpg" data-color="orange">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                  <a class="nav-link" [routerLink]="['/pages/login']">
+                  <a class="nav-link" [routerLink]="['login']">
                       <i class="now-ui-icons arrows-1_cloud-download-93"></i>
                       <p>Log In</p>
                   </a>
               </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://creativetimofficial.github.io/now-ui-kit-angular/documentation/tutorial" target="_blank">
+                    <a class="nav-link" [routerLink]="['profile']">
                       <i class="now-ui-icons files_paper"></i>
-                      <p>Theme</p>
+                      <p>Profile</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-neutral" [routerLink]="['/pages/login']" target="_blank">
+                    <a class="nav-link btn btn-neutral" [routerLink]="['login']">
                         <i class="now-ui-icons arrows-1_share-66"></i>
                         <p>Try it out!</p>
                     </a>

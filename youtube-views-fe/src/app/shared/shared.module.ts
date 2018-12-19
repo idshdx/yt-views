@@ -11,7 +11,7 @@ import { RouterModule } from '@angular/router';
 @NgModule({
   imports:      [ RouterModule, CommonModule ],
   declarations: [ NavbarComponent, FooterComponent],
-  exports:      [ NavbarComponent, FooterComponent, CommonModule ]
+  exports:      [ NavbarComponent, FooterComponent ]
 })
 
 export class SharedModule { }
